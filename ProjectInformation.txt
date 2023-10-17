@@ -1,0 +1,11 @@
+(Main Menu Scene)
+1.Main menu with training window, exit was created.
+2.A hero selection window was created with the ability to play with the selected hero.
+(Sample Scene)
+1.Two heroes were animated.
+2.Infinite parallax was created.
+3.Scripts were written to read user actions and displaying the hero's actions in the game.
+4.Virtual Camera was created for hero.
+
+Problems
+1.Change Location is not working correctly yet.  
